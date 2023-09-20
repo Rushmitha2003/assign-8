@@ -6,8 +6,6 @@
 .main-container{
   display: flex;
   justify-content: space-between; 
-  margin-left: 150px; 
-  margin-right: 150px;
 }
 .reel-container {
   width: 500px;
